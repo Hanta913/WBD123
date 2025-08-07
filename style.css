@@ -1,0 +1,136 @@
+@charset "UTF-8";
+
+/* WBDjapandeta str
+
+end
+
+spring_deta str
+
+end
+
+ /* spring_title */
+
+p#barg{
+	background-color: #484848;
+	color: #ffffff;
+}
+
+p#ber{
+	background-color: #3244ac;
+	color: #ffffff;
+}
+
+p#bor{
+	border-bottom: 2px #000000 solid;
+}
+
+div#gold{
+	font-size: 120%;
+	color: #bab404;
+}
+div#big{
+	font-size: large;
+}
+div{
+	font-size: small;
+}
+
+/* end */
+
+/* spring_seat */
+
+/* end */
+
+/* spring_one */
+
+/* end */
+
+/* spring_allbat */
+p#kozindaseki{
+	font-size: 30px;
+	background-color: #00eeff;
+	color: #ffffff;
+
+}
+
+p#daseki{
+	font-size: 150%;
+	background-color: #c8c8c8;
+	background-repeat: no-repeat;
+}
+
+table{
+	width: 500px;
+	border-collapse: collapse;
+	table-layout: auto;
+}
+table caption{
+	overflow: hidden;
+	text-align: left;
+}
+table th, table td{
+	border: 1.5px solid #000000;
+}
+table th{
+	width: 200px;
+	padding-right: 10px;
+	padding-left: 10px;
+	background-color: #6893d4;
+	text-align: center;
+	color: #ffffff;
+}
+table td{
+	text-align: center;
+	padding: 10px;
+}
+a#center{
+	font-size: 110%;
+	text-align: center;
+}
+
+/* end */
+
+/* spring_allpit */
+p#kozinpit{
+	font-size: 30px;
+	background-color: #2fbd00;
+	color: #ffffff;
+
+}
+
+p#pit{
+	font-size: 150%;
+	background-color: #c8c8c8;
+	background-repeat: no-repeat;
+}
+
+table{
+	width: 500px;
+	border-collapse: collapse;
+	table-layout: auto;
+}
+table caption{
+	overflow: hidden;
+	text-align: left;
+}
+table th, table td{
+	border: 1.5px solid #000000;
+}
+table th{
+	width: 200px;
+	padding-right: 10px;
+	padding-left: 10px;
+	background-color: #6893d4;
+	text-align: center;
+	color: #ffffff;
+}
+table td{
+	text-align: center;
+	padding: 10px;
+}
+a#center{
+	font-size: 110%;
+	text-align: center;
+}
+
+/* end */
